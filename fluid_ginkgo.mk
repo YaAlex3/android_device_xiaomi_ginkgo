@@ -55,6 +55,7 @@ TARGET_SUPPORTS_GOOGLE_RECORDER := true
 endif
 
 # Fluid
+FLUID_BUILD_TYPE := OFFICIAL
 PRODUCT_PRODUCT_PROPERTIES += \
   ro.fluid.maintainer=YaAlex \
   ro.fluid.cpu=SD665
